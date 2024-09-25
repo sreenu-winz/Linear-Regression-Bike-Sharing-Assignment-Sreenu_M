@@ -1,6 +1,6 @@
 # Project Name
 
-Case Study for  bike sharing service "BookBikes"
+Case Study for  bike sharing service "BookBikes" in US
 
 
 ## Problem Statement
@@ -15,8 +15,6 @@ The company wants to know:
 ## Business Requirment
 We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
-## Conclusions
-We have build the model with accuracy of 0.72, detailed description is specified in the notebook file.
 
 ## Technologies Used
 - Python 3.8
@@ -26,5 +24,5 @@ We have build the model with accuracy of 0.72, detailed description is specified
 
 
 ## Contact
-Created by [@https://github.com/talrejar]
+Created by [@https://github.com/sreenu-winz]
 
